@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 1fd6950a8471e8141965d69bd1d13115
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: Emojis_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 128
+      height: 128
+    spriteID: ea227bc949b99314d87eddc2da447596
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Info
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 803
+      width: 123
+      height: 123
+    spriteID: eec10ba4f488f1345b773a5d05c31f4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 803}
+    spritePosition: {x: 2, y: 3}
+  - name: Exit
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 4
+      width: 123
+      height: 123
+    spriteID: 847a3f1e14a5b5e4fb64fdd1e4f55640
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 4}
+    spritePosition: {x: 2, y: 3}
+  - name: Burger
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 135
+      y: 385
+      width: 121
+      height: 114
+    spriteID: ccbbc7947ecefcd44ad9f4160f890aad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 389}
+    spritePosition: {x: 7, y: 11}
+  - name: Back
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1
+      y: 667
+      width: 127
+      height: 128
+    spriteID: 780d6d4ec96211a4489b43e23ee028a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 669}
+    spritePosition: {x: 2, y: 2}
+  - name: NoSound
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3
+      y: 402
+      width: 128
+      height: 128
+    spriteID: 385c929309379324b9df61ef69074506
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 405}
+    spritePosition: {x: 2, y: 2}
+  - name: Arrow 25 - www.Shapes4FREE.com1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 135
+      width: 121
+      height: 120
+    spriteID: 824776371d3384b4ab2c67c5c63faeb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 135}
+    spritePosition: {x: 4, y: 4}
+  - name: Arrow 07 - www.Shapes4FREE.com1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 263
+      width: 121
+      height: 118
+    spriteID: 9c0802ef184f55a43b82dafda6964dc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 263}
+    spritePosition: {x: 3, y: 5}
+  - name: Arrow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 504
+      width: 92
+      height: 124
+    spriteID: 6963459dc7773f94780b877d217ba860
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 504}
+    spritePosition: {x: 18, y: 2}
+  - name: Smiley Vol. 3 #14 - Shapes4FRE1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3
+      y: 2
+      width: 128
+      height: 128
+    spriteID: f0d475dfe24c2d841b8defcf67bc4a50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 1}
+  - name: Smiley Vol. 3 #6 - Shapes4FREE1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2
+      y: 138
+      width: 128
+      height: 128
+    spriteID: ec3e559ab014e174c94eee60ce0cdb95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 138}
+    spritePosition: {x: 1, y: 1}
+  - name: Smiley Vol. 3 #5 - Shapes4FREE1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1
+      y: 534
+      width: 128
+      height: 128
+    spriteID: 1018d931c0b3b4649949ca69e9379ed3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 537}
+    spritePosition: {x: 2, y: 2}
+  - name: Smiley Vol. 3 #3 - Shapes4FREE1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1
+      y: 270
+      width: 128
+      height: 128
+    spriteID: e31ab6e852d8adb45a2382948d08baa7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 272}
+    spritePosition: {x: 2, y: 1}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Info
+    spriteName: Info
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eec10ba4f488f1345b773a5d05c31f4e
+    layerID: 28
+    mosaicPosition: {x: 4, y: 803}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Exit
+    spriteName: Exit
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 847a3f1e14a5b5e4fb64fdd1e4f55640
+    layerID: 27
+    mosaicPosition: {x: 139, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Burger
+    spriteName: Burger
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ccbbc7947ecefcd44ad9f4160f890aad
+    layerID: 25
+    mosaicPosition: {x: 139, y: 389}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Back
+    spriteName: Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 780d6d4ec96211a4489b43e23ee028a9
+    layerID: 23
+    mosaicPosition: {x: 4, y: 669}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: NoSound
+    spriteName: NoSound
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 385c929309379324b9df61ef69074506
+    layerID: 20
+    mosaicPosition: {x: 4, y: 405}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arrow 25 - www.Shapes4FREE.com1
+    spriteName: Arrow 25 - www.Shapes4FREE.com1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 824776371d3384b4ab2c67c5c63faeb9
+    layerID: 19
+    mosaicPosition: {x: 139, y: 135}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arrow 07 - www.Shapes4FREE.com1
+    spriteName: Arrow 07 - www.Shapes4FREE.com1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9c0802ef184f55a43b82dafda6964dc6
+    layerID: 17
+    mosaicPosition: {x: 139, y: 263}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arrow
+    spriteName: Arrow
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6963459dc7773f94780b877d217ba860
+    layerID: 16
+    mosaicPosition: {x: 139, y: 504}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smiley Vol. 3 #14 - Shapes4FRE1
+    spriteName: Smiley Vol. 3 #14 - Shapes4FRE1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f0d475dfe24c2d841b8defcf67bc4a50
+    layerID: 9
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smiley Vol. 3 #6 - Shapes4FREE1
+    spriteName: Smiley Vol. 3 #6 - Shapes4FREE1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ec3e559ab014e174c94eee60ce0cdb95
+    layerID: 7
+    mosaicPosition: {x: 4, y: 138}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smiley Vol. 3 #5 - Shapes4FREE1
+    spriteName: Smiley Vol. 3 #5 - Shapes4FREE1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1018d931c0b3b4649949ca69e9379ed3
+    layerID: 5
+    mosaicPosition: {x: 4, y: 537}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Smiley Vol. 3 #3 - Shapes4FREE1
+    spriteName: Smiley Vol. 3 #3 - Shapes4FREE1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e31ab6e852d8adb45a2382948d08baa7
+    layerID: 3
+    mosaicPosition: {x: 4, y: 272}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638186101205010606
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

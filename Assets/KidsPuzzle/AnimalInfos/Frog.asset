@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Frog
+  m_EditorClassIdentifier: 
+  _Image: {fileID: 556570932204782990, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Frog
+  _Name_FA: "\u0642\u0648\u0631\u0628\u0627\u063A\u0647"
+  _Noises:
+  - {fileID: 8300000, guid: e274bbb135891e440add08f05b384ced, type: 3}
+  _Pronaunse_EN: {fileID: 8300000, guid: 9b0c2a9ec733fb949a2c5ade49c2d9a9, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 56ebc8ea7d1cbed4189a75e4d34269f2, type: 3}

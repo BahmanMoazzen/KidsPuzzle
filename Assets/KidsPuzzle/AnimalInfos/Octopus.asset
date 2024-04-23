@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Octopus
+  m_EditorClassIdentifier: 
+  _Image: {fileID: 5731736287043833677, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Octopus
+  _Name_FA: "\u0647\u0634\u062A \u067E\u0627"
+  _Noises: []
+  _Pronaunse_EN: {fileID: 8300000, guid: 9079295899d2b2642bb0417242442eec, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 4e9daff3747af4a40af1699d29e5c354, type: 3}

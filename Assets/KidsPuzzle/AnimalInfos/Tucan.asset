@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Tucan
+  m_EditorClassIdentifier: 
+  _Image: {fileID: -6257783140124328743, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Tucan
+  _Name_FA: "\u062A\u0648\u06A9\u0627"
+  _Noises:
+  - {fileID: 8300000, guid: 1bf8661b0a503714bbaa0f0fd7768612, type: 3}
+  _Pronaunse_EN: {fileID: 8300000, guid: f4036886a6799ed4494c169e42b2b427, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 07105c5bdb7f43547af5debac0bcb6df, type: 3}

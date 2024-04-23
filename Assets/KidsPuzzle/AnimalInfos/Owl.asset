@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Owl
+  m_EditorClassIdentifier: 
+  _Image: {fileID: -4671328882874250432, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Owl
+  _Name_FA: "\u062C\u063A\u062F"
+  _Noises:
+  - {fileID: 8300000, guid: a5e612561e896834f83688d6e1d900cf, type: 3}
+  _Pronaunse_EN: {fileID: 8300000, guid: c370f929e5d5985439ad08a7511cddf9, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 1442f887e9a5417419aeebac12318f59, type: 3}

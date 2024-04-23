@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Kangaroo
+  m_EditorClassIdentifier: 
+  _Image: {fileID: -5289059851651447752, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Kangaroo
+  _Name_FA: "\u06A9\u0627\u0646\u06AF\u0648\u0631\u0648"
+  _Noises: []
+  _Pronaunse_EN: {fileID: 8300000, guid: 5ee48757e52861f43b7783d48a118eb2, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 593d92770e3ab0b46a934010390a52c6, type: 3}

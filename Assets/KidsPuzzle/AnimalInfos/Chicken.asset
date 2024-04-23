@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Chicken
+  m_EditorClassIdentifier: 
+  _Image: {fileID: 3740313077491473953, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Chicken
+  _Name_FA: "\u0645\u0631\u063A"
+  _Noises:
+  - {fileID: 8300000, guid: 21921f372cfa80649b5b789db078976a, type: 3}
+  _Pronaunse_EN: {fileID: 8300000, guid: cd38f72e031534c40b7b568d871af363, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 1066540ea9e37e140b1bb483e9333d3e, type: 3}

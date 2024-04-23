@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Goat
+  m_EditorClassIdentifier: 
+  _Image: {fileID: -8281799423763512166, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Goat
+  _Name_FA: "\u0628\u0632"
+  _Noises:
+  - {fileID: 8300000, guid: 2eb98995504ff344295dd83fff819ddc, type: 3}
+  _Pronaunse_EN: {fileID: 8300000, guid: 26613e6e415fdab4a8819e80733b91f4, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 4499c298cb91e084bb4c250cba091c66, type: 3}
