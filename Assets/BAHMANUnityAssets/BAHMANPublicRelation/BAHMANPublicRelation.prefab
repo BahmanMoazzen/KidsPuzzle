@@ -675,8 +675,8 @@ MonoBehaviour:
     \u0628\u0647 \u06A9\u0648\u062F\u06A9\u0627\u0646 \u0631\u0648 \u062F\u0627\u0646\u0644\u0648\u062F
     \u06A9\u0646:   https://cafebazaar.ir/app/{0}"
   _title: "\u0627\u0631\u0633\u0627\u0644 \u0628\u0631\u0627\u06CC ..."
-  _ratingURL: bazaar://comment?id={0}
-  _otherProductURL: bazaar://developer/{0}
+  _ratingURL: bazaar://details?id={0}
+  _otherProductURL: bazaar://collection?slug=by_author&aid=117608070773
   _donateURL: http://bing.com?q=Bahman Moazzen
 --- !u!1 &7545826811624887496
 GameObject:
