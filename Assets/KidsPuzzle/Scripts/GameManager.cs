@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
     }
     [SerializeField] GameObject _AnimalUIParent;
     [SerializeField] GameObject _AnimalUIPrefab;
+    [SerializeField] GameObject _AnimalPanel;
     [SerializeField] Transform[] _showPlaces;
     [SerializeField] AnimalController _animal;
     [SerializeField] AnimalInfo[] _allAnimals;
@@ -20,6 +21,36 @@ public class GameManager : MonoBehaviour
     [SerializeField] Sprite[] _allBgs;
     BAHMANBackButtonManager _backButtonManager;
     int _currentAnimalIndex = 0;
+
+    private void OnDisable()
+    {
+        BAHMANSweepManager.OnSweep -= BAHMANSweepManager_OnSweep;
+    }
+    private void OnEnable()
+    {
+        BAHMANSweepManager.OnSweep += BAHMANSweepManager_OnSweep;
+    }
+
+    private void BAHMANSweepManager_OnSweep(SweepDirections iDirection)
+    {
+        switch (iDirection)
+        {
+            case SweepDirections.Left:
+                _LoadPreAnimal();
+                break;
+            case SweepDirections.Right:
+                _LoadNextAnimal();
+                break;
+            case SweepDirections.Up:
+                _ChangeShowPlace(1);
+                _AnimalPanel.SetActive(true);
+                break;
+            case SweepDirections.Down:
+                _ChangeShowPlace(0);
+                _AnimalPanel.SetActive(false);
+                break;
+        }
+    }
 
     public void _BackButtonClick()
     {
