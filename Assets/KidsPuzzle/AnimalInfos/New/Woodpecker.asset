@@ -15,6 +15,7 @@ MonoBehaviour:
   _Image: {fileID: 3392744226264633253, guid: 7fac85650379ac846897850c3397f06e, type: 3}
   _Name_EN: Woodpecker
   _Name_FA: "\u062F\u0627\u0631\u06A9\u0648\u0628"
-  _Noises: []
+  _Noises:
+  - {fileID: 8300000, guid: 93c5fd83579b4d94a9ea3346e22232d2, type: 3}
   _Pronaunse_EN: {fileID: 8300000, guid: 2061709b965dc8b4d993ea158d4be41f, type: 3}
   _Pronaunse_FA: {fileID: 8300000, guid: 63d217eddffafd74e827c35c8ef3a894, type: 3}
