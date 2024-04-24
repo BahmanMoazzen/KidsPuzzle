@@ -581,14 +581,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1382811139080756023, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: m_FontData.m_Font
-      value: 
-      objectReference: {fileID: 12800000, guid: 1e0fecef0c3dd1e41a3ece4f9bfe4f8a, type: 3}
-    - target: {fileID: 3768546657838961487, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: m_FontData.m_Font
-      value: 
-      objectReference: {fileID: 12800000, guid: 1e0fecef0c3dd1e41a3ece4f9bfe4f8a, type: 3}
     - target: {fileID: 4531125330470814069, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -669,18 +661,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6041814285987730015, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: m_FontData.m_Font
-      value: 
-      objectReference: {fileID: 12800000, guid: 1e0fecef0c3dd1e41a3ece4f9bfe4f8a, type: 3}
     - target: {fileID: 7151882458078286805, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
       propertyPath: m_Name
       value: BAHMANPublicRelation
       objectReference: {fileID: 0}
-    - target: {fileID: 9219838762457283529, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
-      propertyPath: m_FontData.m_Font
-      value: 
-      objectReference: {fileID: 12800000, guid: 1e0fecef0c3dd1e41a3ece4f9bfe4f8a, type: 3}
+    - target: {fileID: 7151882458078286805, guid: da7653545e3aa3745a0a08aad9f3bdc3, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
