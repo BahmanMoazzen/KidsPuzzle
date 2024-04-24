@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e14a11ec2668034ea0347e3a924b487, type: 3}
+  m_Name: Sheep
+  m_EditorClassIdentifier: 
+  _Image: {fileID: 2272675979853385346, guid: 7fac85650379ac846897850c3397f06e, type: 3}
+  _Name_EN: Sheep
+  _Name_FA: "\u06AF\u0648\u0633\u0641\u0646\u062F"
+  _Noises:
+  - {fileID: 8300000, guid: 0fb90a862c7b30a478fc8b597bb81fb0, type: 3}
+  _Pronaunse_EN: {fileID: 8300000, guid: 71314bb57e2114a49b57801f20d80185, type: 3}
+  _Pronaunse_FA: {fileID: 8300000, guid: 48d42b30606def8419d30c92fb7f14c2, type: 3}
