@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Piccock
   m_EditorClassIdentifier: 
   _Image: {fileID: 5893206887350109747, guid: 7fac85650379ac846897850c3397f06e, type: 3}
-  _Name_EN: Piccock
+  _Name_EN: Peacock
   _Name_FA: "\u0637\u0627\u0648\u0648\u0633"
-  _Noises: []
+  _Noises:
+  - {fileID: 8300000, guid: 9e05d22326be33741a97cbdbbdfb47cc, type: 3}
+  - {fileID: 8300000, guid: cfdb4793d2a9fb8429db1fc0fecf9e5e, type: 3}
   _Pronaunse_EN: {fileID: 8300000, guid: 7d09091abf3d9134ca06f8b27913a5d8, type: 3}
   _Pronaunse_FA: {fileID: 8300000, guid: 0f18eaa7563a0ac4e82e69ff14d4cbb4, type: 3}

@@ -15,6 +15,7 @@ MonoBehaviour:
   _Image: {fileID: 7204682767720506035, guid: 7fac85650379ac846897850c3397f06e, type: 3}
   _Name_EN: Fly
   _Name_FA: "\u0645\u06AF\u0633"
-  _Noises: []
+  _Noises:
+  - {fileID: 8300000, guid: cbd3df444330b8743a4c9070e8470a41, type: 3}
   _Pronaunse_EN: {fileID: 8300000, guid: 3e2f6834a9da67c438a21f6d78ca26ae, type: 3}
   _Pronaunse_FA: {fileID: 8300000, guid: 7344c821b46d98e42803891558628d5e, type: 3}
